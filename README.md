@@ -1,7 +1,7 @@
 # AT_invasiivsed
 Project B4: EFFECTS OF INVASIVE SPECIES 
 
-Team: Reelika Pärnpuu, Marta Miia Pärnpuu
+Team:  Reelika Pärnpuu, Marta Miia Pärnpuu
 
 Dataset 1: "EEB_samples.xlsx", mostly for 3 categorical values “invaded”, “transitional” and “natural”.
 
