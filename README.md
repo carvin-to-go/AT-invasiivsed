@@ -10,9 +10,13 @@ before the control methods have been implemented, but the project will go on to 
 same areas after implementation. 
 2. A narrower goal would be to find ways for the plant to utilise Python in biology-related data mining, since biology work groups (at least in Tartu University) usually use R instead. To test how well Python can be utilized for biology-related data, we set the goal to look for general correlations in datasets provided for us.
 
+This work can be recreated by following the code in DS_main.
+
 
 Guide:
+
 Jupyter Notebook: "DS_main"
+
 Dataset 1: "EEB_samples.xlsx", there are a total of 216 samples. The samples have been taken from 24 locations; in each location the quadrat method has been used to collect data from 3 sub-sample areas. For each quadrat, the sample was taken 3 times. We'll use this dataframe 
 mostly for 3 categorical values “invaded”, “transitional” and “natural”.
 
