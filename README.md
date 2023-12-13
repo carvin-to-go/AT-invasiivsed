@@ -15,16 +15,16 @@ This work can be recreated by following the code in DS_main.
 
 Guide:
 
-Jupyter Notebook: "DS_main"
+* Jupyter Notebook: "DS_main"
 
-Dataset 1: "EEB_samples.xlsx", there are a total of 216 samples. The samples have been taken from 24 locations; in each location the quadrat method has been used to collect data from 3 sub-sample areas. For each quadrat, the sample was taken 3 times. We'll use this dataframe 
+* Dataset 1: "EEB_samples.xlsx", there are a total of 216 samples. The samples have been taken from 24 locations; in each location the quadrat method has been used to collect data from 3 sub-sample areas. For each quadrat, the sample was taken 3 times. We'll use this dataframe 
 mostly for 3 categorical values “invaded”, “transitional” and “natural”.
 
-Dataset 2: “EEB_soil_chemistry.xlsx”, soil analysis, we will be using most of this dataset.
+* Dataset 2: “EEB_soil_chemistry.xlsx”, soil analysis, we will be using most of this dataset.
 
-Dataset 3: “Plant_survey_2023_final.xlsx”, sample ID codes and the counts of different plant species in the sample area.
+* Dataset 3: “Plant_survey_2023_final.xlsx”, sample ID codes and the counts of different plant species in the sample area.
 
-Dataset 4: "YSI_matrix.xlsx", "newness" of a species, data for calculating the Biotic Novelty Index.
+* Dataset 4: "YSI_matrix.xlsx", "newness" of a species, data for calculating the Biotic Novelty Index.
 
 
 Links:
